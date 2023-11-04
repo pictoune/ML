@@ -1,6 +1,6 @@
 # Machine Learning course
 
-This repository presents the practical works and a project I completed (with another student) as a part of my master's course in machine learning (https://dac.lip6.fr/master/ml/).
+This repository presents the practical works ("Travaux sur Machine Encadrés" in French) and a project I completed (with another student) as a part of my master's course in machine learning (https://dac.lip6.fr/master/ml/).
 
 
 ## Practical Works (TME)
