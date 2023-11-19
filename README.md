@@ -1,6 +1,6 @@
 # Machine Learning course
 
-This repository presents the practical works (PW) and a project I completed (with another student) as a part of my master's course in machine learning (https://dac.lip6.fr/master/ml/).
+This repository hosts the report for our practical works, as well as the report and code of a project I completed with another student during my master's course in machine learning (https://dac.lip6.fr/master/ml/).
 
 
 ## Practical Works (TME)
